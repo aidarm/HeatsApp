@@ -7,3 +7,5 @@ Software engineering 2014 project template
 * It contains 7 markdown files, one for each chapter of the documentation
 
 ####Salut! Je m'appelle Aidar!
+
+####Comment tu vas ?
