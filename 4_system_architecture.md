@@ -1,6 +1,6 @@
 # Chapter 4. System architecture
 
-###1. Building infrastructure
+###4.1. Building infrastructure
 The building must communicate via the electrical wiring and this service is outsourced. In the building we will have two types of devices, which will be installed at every room to allow each room to operate as an autonomous unit:
 
 1.	Sensor devices:
@@ -15,7 +15,7 @@ Actuator is the connecting device between the software and the physical world. F
 ![](http://users.metropolia.fi/~aidarm/software_engineering/actuator.png)
 
 
-###2. Architecture overview.
+###4.2. Architecture overview.
 
 The database will be updated from the sensors.
 
@@ -40,7 +40,7 @@ For those 3 different time sets there are 3 different control policies:
 | __CONTROL POLICY__| Heating on    | Dynamic approach |Heating saver |
 
 
-###3. Control policies behavior protocol
+###4.3. Control policies behavior protocol
 
 The control policies are being predefined to work on different times according to table system arch section 2.
 
