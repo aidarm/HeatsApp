@@ -31,9 +31,9 @@ The database will be updated from the sensors.
 
 In the past there has been a lot of research for intelligent building. In our project the goal is not only to save energy but also maintain a high customer satisfaction. In order to do that we create 3 different time sets which define the control policies for our school heating:
 
-1.	`Schedule time` — the time where lessons are being held. The time when school is at full or close to full capacity for realization: 7:00 - 19:00.
-2.	`Active time` — the time in which the school is active but no lessons are being held  for realization: Saturdays, weekdays 19:00 - 21:00
-3.	`Non active time` — time which in the building is not active.
+1.	`Schedule time` — the time where lessons are being held. The time when school is at full or close to full capacity for realization: 07:00 - 19:00
+2.	`Active time` — the time in which the school is active but no lessons are being held  for realization: weekdays 19:00 - 21:00, Saturday
+3.	`Non active time` — time which in the building is not active: weekdays 21:00 - 07:00, Sunday
 
 For those 3 different time sets there are 3 different control policies:
 
