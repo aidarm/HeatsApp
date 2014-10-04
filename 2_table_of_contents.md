@@ -24,7 +24,6 @@
     <ol>
       <li>Functional requirements</li>
       <li>Non-functional requirements</li>
-      <li>Other non-functional requirements</li>
     </ol>
   </li>
   <li><b>Project mangement reflection</b></li>
