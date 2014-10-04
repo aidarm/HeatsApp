@@ -37,7 +37,7 @@ For those 3 different time sets there are 3 different control policies:
 
 1.	`Heating  on` heats all rooms in campus to 22 c static
 2.	`Heating saver` heats all room in the building to 16 c
-3.	`Dynamic approach` will enable timer based on or timer base saver according to the conditions of enabling the control policies.
+3.	`Dynamic` will enable timer based on or timer base saver according to the conditions of enabling the control policies.
 
 |               | SCHEDULE TIME |   ACTIVE TIME    |  NON-ACTIVE TIME |
 | ------------- |:-------------:|:----------------:| :----------------:|
@@ -54,7 +54,7 @@ The two static timer based control policies are:
 
 ---
 
-`Dynamic approach` control policy enables one of the two static control policies for the two different actors (staff member or student). It is important to remember that switching between control policies by the dynamic control policy occurs only at active time.
+`Dynamic` control policy enables one of the two static control policies for the two different actors (staff member or student). It is important to remember that switching between control policies by the dynamic control policy occurs only at active time.
 
 __Student:__
 * The system is automatically heating one lab for the students as a default value.
