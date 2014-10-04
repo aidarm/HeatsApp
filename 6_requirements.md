@@ -40,4 +40,7 @@
 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/5.png)
 
+*Heat.student.list* — if student is logged in, application will list all the heated labs in the campus and show the number of people there (according to system architecture). Student as an actor has activity only during `Active time`.
+
+
 ![](http://users.metropolia.fi/~aidarm/software_engineering/6.png)
