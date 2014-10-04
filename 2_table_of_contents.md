@@ -1,14 +1,14 @@
 #Table of contents
 
 <ol>
-  <li>Introduction</li>
-  <li>Use cases
+  <li><b>Introduction</b></li>
+  <li><b>Use cases</b>
     <ol>
       <li>User group definitions</li>
       <li>Primary actors and use cases</li>
     </ol>
   </li>
-  <li>System architecture
+  <li><b>System architecture</b>
     <ol>
       <li>Building infrastructure</li>
       <li>Architecture overview
@@ -20,7 +20,7 @@
       <li>Control policies behaviour protocol</li>
     </ol>
   </li>
-  <li>Requirements
+  <li><b>Requirements</b>
     <ol>
       <li>Functional requirements
         <ol>
@@ -32,7 +32,7 @@
       <li>Non-functional requirements</li>
     </ol>
   </li>
-  <li>Project mangement reflection</li>
+  <li><b>Project mangement reflection</b></li>
 </ol>
 
 
