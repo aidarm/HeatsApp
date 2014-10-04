@@ -12,7 +12,7 @@
 
 | PRIMARY ACTOR        | USE CASES           |
 | ------------- | ------------- |
-| Admin      | <ol><li>Log in</li><li>Log out</li><li>Manipulate radiators</li><li>Analyze input from the sensors</li><li>Edit all default settings</li></ol>|
+| Admin      | <ol><li>Log in</li><li>Log out</li><li>Edit all default settings</li><li>Analyze input from the sensors</li><li>Manipulate radiators</li></ol>|
 | Staff member     | <ol><li>Log in</li><li>Log out</li><li>Edit his/her own office default heat settings</li><li>Send a value, when prompted by the system</li></ol>      |
 | Student | <ol><li>Log in</li><li>Log out</li><li>Search for available classrooms</li><li>Get a notification</li></ol>    |
 
@@ -75,6 +75,38 @@
   </tr>
   <tr>
     <td>__USE CASE NAME__</td>
+    <td>Analyze input from the sensors</td>
+  </tr>
+  <tr>
+    <td>__ACTOR__</td>
+    <td>Admin</td>
+  </tr>
+  <tr>
+    <td>__DESCRIPTION__</td>
+    <td>Admin is able to read input values from heat sensor and location beacons</td>
+  </tr>
+  <tr>
+    <td>__NORMAL FLOW__</td>
+    <td>
+     <ol>
+      <li>Logs in</li>
+      <li>Searches for the room through a search bar (or selects it by tapping the tabs(building and level))</li>
+      <li>Taps settings icon which is on the right side to room number</li>
+      <li>New table appears, containing information about number of people and temperature</li>
+     </ol>
+    </td>
+  </tr>
+</table>
+
+---
+
+ <table>
+  <tr>
+    <td>__USE CASE ID__</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>__USE CASE NAME__</td>
     <td>Manipulate radiators</td>
   </tr>
   <tr>
@@ -102,37 +134,5 @@
   <tr>
     <td>__EXCEPTIONS__</td>
     <td>The system will reset to its default setting values once it is operating on a different protocol</td>
-  </tr>
-</table>
-
----
-
- <table>
-  <tr>
-    <td>__USE CASE ID__</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>__USE CASE NAME__</td>
-    <td>Analyze input from the sensors</td>
-  </tr>
-  <tr>
-    <td>__ACTOR__</td>
-    <td>Admin</td>
-  </tr>
-  <tr>
-    <td>__DESCRIPTION__</td>
-    <td>Admin is able to read input values from heat sensor and location beacons</td>
-  </tr>
-  <tr>
-    <td>__NORMAL FLOW__</td>
-    <td>
-     <ol>
-      <li>Logs in</li>
-      <li>Searches for the room through a search bar (or selects it by tapping the tabs(building and level))</li>
-      <li>Taps settings icon which is on the right side to room number</li>
-      <li>New table appears, containing information about number of people and temperature</li>
-     </ol>
-    </td>
   </tr>
 </table>
