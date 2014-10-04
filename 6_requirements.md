@@ -29,3 +29,5 @@
 ![](http://users.metropolia.fi/~aidarm/software_engineering/4.png) 
 
 *Heat.staff.ra*
+
+![](http://users.metropolia.fi/~aidarm/software_engineering/5.png) 
