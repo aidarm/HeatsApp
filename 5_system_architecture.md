@@ -31,15 +31,15 @@ The database will be updated from the sensors.
 
 In the past there has been a lot of research for intelligent building. In our project the goal is not only to save energy but also maintain a high customer satisfaction. In order to do that we create 3 different time sets which define the control policies for our school heating:
 
-1.	`Schedule time` — the time where lessons are being held. The time when school is at full or close to full capacity for realization: 07:00 - 19:00
-2.	`Active time` — the time in which the school is active but mostly no lessons are being held  for realization: weekdays 19:00 - 21:00, Saturday
-3.	`Non active time` — time which in the building is not active: weekdays 21:00 - 07:00, Sunday
+1.	`Schedule time(ST)` — the time where lessons are being held. The time when school is at full or close to full capacity for realization: 07:00 - 19:00
+2.	`Active time(AT)` — the time in which the school is active but mostly no lessons are being held  for realization: weekdays 19:00 - 21:00, Saturday
+3.	`Non-active time(NAT)` — time which in the building is not active: weekdays 21:00 - 07:00, Sunday
 
 For those 3 different time sets there are 3 different control policies:
 
-1.	`Heating  on` heats all rooms in campus to 22 c static
-2.	`Heating saver` heats all room in the building to 16 c
-3.	`Dynamic` will enable timer based on or timer base saver according to the conditions of enabling the control policies.
+1.	`Heating  on(HO)` heats all rooms in campus to 22 c static
+2.	`Heating saver(HS)` heats all room in the building to 16 c
+3.	`Dynamic(DY)` will enable timer based on or timer base saver according to the conditions of enabling the control policies.
 
 |               | SCHEDULE TIME |   ACTIVE TIME    |  NON-ACTIVE TIME |
 | ------------- |:-------------:|:----------------:| :----------------:|
