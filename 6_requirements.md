@@ -50,3 +50,5 @@
 ![](http://users.metropolia.fi/~aidarm/software_engineering/6.png)
 
 ###4.2. Non-functional requirements
+
+###4.3. Other non-functional requirements
