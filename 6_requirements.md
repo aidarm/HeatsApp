@@ -4,5 +4,6 @@
 
 _Heat.login_ — all actors enter the system, using their own unique Metropolia username and password.
 
+![](http://users.metropolia.fi/~aidarm/software_engineering/login_page.png) __
 ![](http://users.metropolia.fi/~aidarm/software_engineering/login_page.png)
 
