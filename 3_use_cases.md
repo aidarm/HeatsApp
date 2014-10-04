@@ -81,7 +81,7 @@
   </tr>
   <tr>
     <td>__DESCRIPTION__</td>
-    <td>The radiator inside the section of the building can be turned on/off remotely through the admin control panel</td>
+    <td>The radiator inside the section of the building can be turned on/off remotely through the admin control panel. Additionally, the temperature can be changed through an actuator.</td>
   </tr>
   <tr>
     <td>__NORMAL FLOW__</td>
