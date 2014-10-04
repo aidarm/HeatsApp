@@ -10,5 +10,4 @@
 
 *Heat.admin.list* — admin gets a list of all of the classrooms in the building. Filtering available by section(A or B) and level or by a single input of classroom number(searching).
 
-![](http://users.metropolia.fi/~aidarm/software_engineering/list.png) 
-![](http://users.metropolia.fi/~aidarm/software_engineering/A0101.png)
+![](http://users.metropolia.fi/~aidarm/software_engineering/2.png) 
