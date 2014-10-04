@@ -25,7 +25,7 @@ The database will be updated from the sensors.
 * Another database should be set up to take attendance of account owners. So when an account owner is in school and logged in a variable with a cache time saves a value of true to _AT SCHOOL_ and the user location in school.
 * The database will register the current heat of every room as a cache time variable.  
 
-#####4.2.1. Control policies
+#####4.2.2. Control policies
 
 In the past there has been a lot of research for intelligent building. In our project the goal is not only to save energy but also maintain a high customer satisfaction. In order to do that we create 3 different time sets which define the control policies for our school heating:
 
