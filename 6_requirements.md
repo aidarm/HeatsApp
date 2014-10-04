@@ -6,10 +6,10 @@
 
 *Heat.login_failure* — if username or password are typed in a wrong way, then the system informs about it.
 
-![](http://users.metropolia.fi/~aidarm/software_engineering/login_page.png) __
+![](http://users.metropolia.fi/~aidarm/software_engineering/login_page.png) 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/login_failure.png)
 
 *Heat.admin.list* — admin gets a list of all of the classrooms in the building. Filtering available by section(A or B) and level or by a single input of classroom number(searching).
 
-![](http://users.metropolia.fi/~aidarm/software_engineering/list.png) __
+![](http://users.metropolia.fi/~aidarm/software_engineering/list.png) 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/A0101.png)
