@@ -1,6 +1,6 @@
-# Chapter 4. System architecture
+# Chapter 3. System architecture
 
-###4.1. Building infrastructure
+###3.1. Building infrastructure
 The building must communicate via the electrical wiring and this service is outsourced. In the building we will have two types of devices, which will be installed at every room to allow each room to operate as an autonomous unit:
 
 1.	Sensor devices:
@@ -15,9 +15,9 @@ Actuator is the connecting device between the software and the physical world. F
 ![](http://users.metropolia.fi/~aidarm/software_engineering/actuator.png)
 
 
-###4.2. Architecture overview
+###3.2. Architecture overview
 
-#####4.2.1. Database
+#####3.2.1. Database
 
 The database will be updated from the sensors.
 
@@ -25,7 +25,7 @@ The database will be updated from the sensors.
 * Another database should be set up to take attendance of account owners. So when an account owner is in school and logged in a variable with a cache time saves a value of true to _AT SCHOOL_ and the user location in school.
 * The database will register the current heat of every room as a cache time variable.  
 
-#####4.2.2. Control policies
+#####3.2.2. Control policies
 
 In the past there has been a lot of research for intelligent building. In our project the goal is not only to save energy but also maintain a high customer satisfaction. In order to do that we create 3 different time sets which define the control policies for our school heating:
 
@@ -44,7 +44,7 @@ For those 3 different time sets there are 3 different control policies:
 | __CONTROL POLICY__| Heating on    | Dynamic approach |Heating saver |
 
 
-###4.3. Control policies behavior protocol
+###3.3. Control policies behavior protocol
 
 The control policies are being predefined to work on different times according to table system arch section 2.
 
