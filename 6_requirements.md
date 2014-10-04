@@ -24,6 +24,6 @@
 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/3.png)
 
-*Heat.admin.week* — 
+*Heat.admin.week* — admin sets weekly operation time. There are couple of pickers that will ask the user for the weekly operating hours of a desired time set. Values will be saved to the database and operate by the time value
 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/4.png) 
