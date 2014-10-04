@@ -1,6 +1,6 @@
-#Chapter 3. Use cases
+#Chapter 2. Use cases
 
-###3.1. User group definitions
+###2.1. User group definitions
 
 | USER GROUP      | DEFINITION           | DESCRIPTION  |
 | ------------- |-------------| -----|
@@ -8,7 +8,7 @@
 | User / Student      | Registered user in school database     |   Comes to school on a regular basis. Has no execution authorities. |
 | User / Staff member | Registered user in school database     |   Has his/her own room/office, where some temperature manipulations are possible by the user.  |
 
-###3.2. Primary actors and use cases
+###2.2. Primary actors and use cases
 
 | PRIMARY ACTOR        | USE CASES           |
 | ------------- | ------------- |
