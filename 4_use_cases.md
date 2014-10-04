@@ -58,7 +58,12 @@
   </tr>
   <tr>
     <td>__EXCEPTIONS__</td>
-    <td>No connection to database</td>
+    <td>
+     <ol>
+      <li>No connection to database</li>
+      <li>Previous time values of time sets are automatically overwritten by the last input. For example, if the last input for Monday is 00:00-24:00 for "Non-active time", then "Schedule time" and "Active time" get zero values — Monday would be fully non-active</li>
+     </ol>
+    </td>
   </tr>
   <tr>
     <td>__SPECIAL REQUIREMENTS__</td>
