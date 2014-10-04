@@ -28,6 +28,12 @@
 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/4.png) 
 
-*Heat.staff.ra*
+*Heat.staff.getInfo* — after staff member has logged in, there is an informational panel to appear. It is something like a limited version of *admin.getInfo*. It shows current control policy and current temperature for the office of his/her own office.
+
+*Heat.staff.officeTemp* — almost the same as *admin.roomTemp*. The difference is that manipulations are done by staff member and only towards his/her office.
+
+*Heat.staff.globalTemp* — almost the same as *admin.globalTemp*. The difference is that manipulations are done by staff member and only towards his/her office. UI looks exactly the same.
+
+*Heat.staff.week* — almost the same as *admin.week*. The difference is that manipulations are done by staff member and only towards his/her office. UI looks exactly the same.
 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/5.png) 
