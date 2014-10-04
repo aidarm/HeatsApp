@@ -13,7 +13,7 @@
 | PRIMARY ACTOR        | USE CASES           |
 | ------------- | ------------- |
 | Admin      | <ol><li>Log in</li><li>Log out</li><li>Manipulate radiators</li><li>Analyze input from the sensors</li><li>Edit all default settings</li></ol>|
-| Staff member     | <ol><li>Log in</li><li>Log out</li><li>Edit his/her own office default heat settings</li><li>Sends a value, when prompted by the system</li></ol>      |
+| Staff member     | <ol><li>Log in</li><li>Log out</li><li>Edit his/her own office default heat settings</li><li>Send a value, when prompted by the system</li></ol>      |
 | Student | <ol><li>Log in</li><li>Log out</li><li>Search for available classrooms</li><li>Get a notification</li></ol>    |
 
 ---
