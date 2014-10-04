@@ -18,6 +18,8 @@
 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/2.png)
 
+*Heat.admin.settings* — admin gets access to global settings, where he/she is able to define default temperature values of different control policies, and values for time sets on weekly basis.
+
 ![](http://users.metropolia.fi/~aidarm/software_engineering/3.png)
 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/4.png) 
