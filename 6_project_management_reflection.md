@@ -12,5 +12,5 @@ for net time we would want o work on an ctual project and it will alow us to wor
 
 for this specific project the hardest thing was the system architchture 
 * List here also estimation of hours spend in total and by each member in the project
-
- 25 easy.
+</br>
+ 25 hours easy.
