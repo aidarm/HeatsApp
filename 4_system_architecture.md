@@ -15,13 +15,17 @@ Actuator is the connecting device between the software and the physical world. F
 ![](http://users.metropolia.fi/~aidarm/software_engineering/actuator.png)
 
 
-###4.2. Architecture overview.
+###4.2. Architecture overview
+
+#####4.2.1. Database
 
 The database will be updated from the sensors.
 
 * The  end user gets validation of him/her being a student/staff member = Metropolia account owner from collaboration with Metropolia database. 
 * Another database should be set up to take attendance of account owners. So when an account owner is in school and logged in a variable with a cache time saves a value of true to _AT SCHOOL_ and the user location in school.
 * The database will register the current heat of every room as a cache time variable.  
+
+#####4.2.1. Control policies
 
 In the past there has been a lot of research for intelligent building. In our project the goal is not only to save energy but also maintain a high customer satisfaction. In order to do that we create 3 different time sets which define the control policies for our school heating:
 
