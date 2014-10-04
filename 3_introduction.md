@@ -11,5 +11,5 @@ The system will read input from devices and according to the control policies (s
 
 The end goal of our project was to decrease heat energy consumption while maintaining customer satsfaction. The project is not implemented in real world so as a basic asumption we will assume that:
 
-1. All students and staff members are logged in to the application while in school. It actually means, that all of them has a smartphone.
-2. Our data is not necessarily obliged to real world. The main concept is the app.
+* All students and staff members are logged in to the application while in school. It actually means, that all of them has a smartphone.
+* Our data is not necessarily obliged to real world. The main concept is the app.
