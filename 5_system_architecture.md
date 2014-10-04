@@ -7,6 +7,8 @@ The building must communicate via the electrical wiring and this service is outs
 	* Beacon for the indoor positioning system
 	* A heat sensor
 
+Beacon is a small Bluetooth transmitter, which provides location-based information. Many of them placed in different parts of the building.
+
 2.	Actuators:
 	* Heat actuator
 
