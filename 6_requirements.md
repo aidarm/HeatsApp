@@ -10,6 +10,12 @@
 
 *Heat.admin.list* — admin gets a list of all of the classrooms in the building. Filtering available by section(A or B) and level or by a single input of classroom number(searching).
 
+*Heat.admin.getInfo* — admin gets the information about the room from the sensors — radiator status, number of people, temperature values, temperature control policy name.
+
+*Heat.admin.radiator* — admin sets the value of radiator of the selected room to true(on) or false(off) through the actuator.
+
+*Heat.admin.temp* - admin changes the temperature of the room. Once a new temperature is sent, the input goes into a function that communicates with the actuator of the selected room. Notice, that changing the temperature is different than changing the default temperature and the value will reset itself once control policy is automatically changed.
+
 ![](http://users.metropolia.fi/~aidarm/software_engineering/2.png)
 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/3.png)
