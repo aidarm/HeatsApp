@@ -12,4 +12,6 @@
 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/2.png)
 
-![](http://users.metropolia.fi/~aidarm/software_engineering/3.png) 
+![](http://users.metropolia.fi/~aidarm/software_engineering/3.png)
+
+![](http://users.metropolia.fi/~aidarm/software_engineering/4.png) 
