@@ -1,6 +1,6 @@
 #Table of contents
 
-ol {list-style: none}
+ol {list-style: none};
 
 
 <ol>
