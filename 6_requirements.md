@@ -53,11 +53,9 @@
 
 #####Usability.
 
-
+We tried to make our application as simple as possible. Using Metropolia database really helps users to start interacting with the application easily, because no registration is actually needed. The only thing needed is a smartphone to launch the application, because it is mobile. Metropolia database already stores the name and permissions of the user, defining who is a student and who is a staff memeber, which is very good. Moreover, our aim is to make graphical user interface as clear and intuitive as possible. It is important that all the actors do their tasks without any kind of hesitations or misunderstandings.
 
 #####Reliability.
 
-
-
-#####Maintainability.
+One more good moment to mention Metropolia database — it is already secured. 
 
