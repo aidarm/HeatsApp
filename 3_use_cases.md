@@ -12,7 +12,7 @@
 
 | PRIMARY ACTOR        | USE CASES           |
 | ------------- | ------------- |
-| Admin      | <ol><li>Log in</li><li>Log out</li><li>Radiator manipulation</li><li>Analyze input from the sensors</li><li>Set users permissions</li><li>Edit all default settings</li></ol>|
+| Admin      | <ol><li>Log in</li><li>Log out</li><li>Manipulate radiators</li><li>Analyze input from the sensors</li><li>Set users permissions</li><li>Edit all default settings</li></ol>|
 | Staff member     | <ol><li>Log in</li><li>Log out</li><li>Edit his/her own office default heat settings</li><li>Remotely turn on his/her own office heating</li><li>Answer to the apllication prompt</li></ol>      |
 | Student | <ol><li>Log in</li><li>Log out</li><li>Search for available classrooms</li><li>Answer to the apllication prompt</li></ol>    |
 
@@ -73,7 +73,7 @@
   </tr>
   <tr>
     <td>__USE CASE NAME__</td>
-    <td>Radiator manipulation</td>
+    <td>Manipulate radiators</td>
   </tr>
   <tr>
     <td>__ACTOR__</td>
