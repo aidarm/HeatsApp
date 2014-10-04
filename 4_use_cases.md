@@ -41,18 +41,18 @@
     <td>__NORMAL FLOW__</td>
     <td>
      <ol>
-      <li>Admin selects the protocols - control policies</li>
-      <li>There is a submitiion form to appear</li>
-      <li><br>
-       <ul>
-        <li>Input the default temperature</li>
-        <li>Input the weekly active time</li>
-       </ul>
-      </li>
-      <li>Submit changes</li>
-      <li>Confirmation request from the server</li>
-      <li>System stores new default values</li>
-      <li>Edit all default settings</li>
+      <li>Logs in</li>
+      <li>Taps the "Global" icon on the bottom of the screen</li>
+      <li>"Policies" tab appears</li>
+      <li>Changes default temperatures by tapping pickers</li>
+      <li>Saves the values</li>
+      <li>Selects the "Time sets" tab</li>
+      <li>"Time sets" tab appears</li>
+      <li>Selects the day of the week from a dropdown menu</li>
+      <li>Time sets for different periods are shown</li>
+      <li>Taps "Settings" icon which is next to time set name</li>
+      <li>Changes time values "From" and "To"</li>
+      <li>Saves the values</li>
      </ol>
     </td>
   </tr>
@@ -91,7 +91,7 @@
      <ol>
       <li>Logs in</li>
       <li>Searches for the room through a search bar (or selects it by tapping the tabs(building and level))</li>
-      <li>Taps settings icon which is on the right side to room number</li>
+      <li>Taps settings icon which is next to room number</li>
       <li>New table appears, containing information about number of people and temperature</li>
      </ol>
     </td>
@@ -123,7 +123,7 @@
      <ol>
       <li>Logs in</li>
       <li>Searches for the room through a search bar (or selects it by tapping the tabs(building and level))</li>
-      <li>Taps settings icon which is on the right side to room number</li>
+      <li>Taps settings icon which is next to room number</li>
       <li>New table appears, containing information about the status of the radiator and picker to manipulate the temperature value</li>
       <li>Turns the radiator on/off</li>
       <li>Changes teh temperature</li>
