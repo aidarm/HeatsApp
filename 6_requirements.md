@@ -51,4 +51,3 @@
 
 ###4.2. Non-functional requirements
 
-###4.3. Other non-functional requirements
