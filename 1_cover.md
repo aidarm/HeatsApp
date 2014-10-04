@@ -1,8 +1,6 @@
-### This is the cover page of your document
+#HeatAPP
 
-List here the following details:
-* Project title, name of the product
-* Team name
-* Team members
-* Date
-
+__Product name__: HeatAPP
+__Team name__: Jaa Live
+__Team members__: Aidar Mukhamadiev, Asaf Golan, Julien Della Valle
+__Date of the report__: October 4, 2014
