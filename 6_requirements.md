@@ -28,6 +28,8 @@
 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/4.png) 
 
+---
+
 *Heat.staff.getInfo* — after staff member has logged in, there is an informational panel to appear. It is something like a limited version of *admin.getInfo*. It shows current control policy and current temperature for the office of his/her own office.
 
 *Heat.staff.officeTemp* — almost the same as *admin.roomTemp*. The difference is that manipulations are done by staff member and only towards his/her office.
@@ -39,6 +41,8 @@
 *Heat.staff.answer* — staff member sends a value (true or false) when prompted. `Should I start heating your office?` — conditional block that is being executed if the staff member is attended at campus beyond or off his/her schedule hours and user is logged in the block is prompting the user if he/she wants to turn on the heat. Then it connects to the actuator and turns it on.
 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/5.png)
+
+---
 
 *Heat.student.list* — if student is logged in, application will list all the heated labs in the campus and show the number of people there (according to system architecture). Student as an actor has activity only during `Active time`.
 
