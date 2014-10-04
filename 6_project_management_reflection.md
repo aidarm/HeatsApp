@@ -6,10 +6,11 @@ wether the fact the we didnt treat all the use cases that we wrote is good (use 
 but all and all the goal was the write a simple and clear as possible withot being repetative.
 
 * What you would do differently for the next project
-* 
+
 for net time we would want o work on an ctual project and it will alow us to work in a more agile way.
 * What were the easy parts in the project? What was hard?
-* 
+
 for this specific project the hardest thing was the system architchture 
 * List here also estimation of hours spend in total and by each member in the project
+
  25 easy.
