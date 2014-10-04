@@ -1,8 +1,5 @@
 #Table of contents
 
-ol {list-style: none};
-
-
 <ol>
   <li>Introduction</li>
   <li>Use cases</li>
