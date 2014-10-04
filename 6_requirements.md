@@ -2,5 +2,7 @@
 
 ###4.1. Functional requirements
 
-#####4.1.1. Admin
+_Heat.login_ — all actors enter the system, using their own unique Metropolia username and password.
+
+![](http://users.metropolia.fi/~aidarm/software_engineering/login.png)
 
