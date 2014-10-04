@@ -22,13 +22,7 @@
   </li>
   <li><b>Requirements</b>
     <ol>
-      <li>Functional requirements
-        <ol>
-          <li>Admin</li>
-          <li>Staff member</li>
-          <li>Student</li>
-        </ol>
-      </li>
+      <li>Functional requirements</li>
       <li>Non-functional requirements</li>
     </ol>
   </li>
