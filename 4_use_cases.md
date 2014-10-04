@@ -89,9 +89,13 @@
     <td>__NORMAL FLOW__</td>
     <td>
      <ol>
-      <li>Admin selects the section</li>
-      <li>A blueprint of the section appears with a submittion form</li>
-      <li>Submits the form</li>
+      <li>Logs in</li>
+      <li>Searches for the room through a search bar (or selects it by tapping the tabs(building and level))</li>
+      <li>Taps settings icon which is on the right side to room number</li>
+      <li>New table appears, containing information about the status of the radiator and picker to manipulate the temperature value</li>
+      <li>Turns the radiator on/off</li>
+      <li>Changes teh temperature</li>
+      <li>Saves new values</li>
      </ol>
     </td>
   </tr>
@@ -124,12 +128,10 @@
     <td>__NORMAL FLOW__</td>
     <td>
      <ol>
-      <li>Log in</li>
-      <li>Admin control panle</li>
-      <li>Select the campus</li>
-      <li>Select the level of the campus</li>
-      <li>Select class/lab/auditorium</li>
-      <li>Blueprint with sensor inputs to appear</li>
+      <li>Logs in</li>
+      <li>Searches for the room through a search bar (or selects it by tapping the tabs(building and level))</li>
+      <li>Taps settings icon which is on the right side to room number</li>
+      <li>New table appears, containing information about number of people and temperature</li>
      </ol>
     </td>
   </tr>
