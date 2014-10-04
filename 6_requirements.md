@@ -36,6 +36,6 @@
 
 *Heat.staff.week* — almost the same as *admin.week*. The difference is that manipulations are done by staff member and only towards his/her office. UI looks exactly the same.
 
-*Heat.staff.answer* — staff member sends a value when prompted. `Should I start heating your office?` — conditional block that is being executed if the staff member is attended at campus beyond or off his/her schedule hours and user is logged in the block is prompting the user if he/she wants to turn on the heat. Then it connects to the actuator and turns it on.
+*Heat.staff.answer* — staff member sends a value (true or false) when prompted. `Should I start heating your office?` — conditional block that is being executed if the staff member is attended at campus beyond or off his/her schedule hours and user is logged in the block is prompting the user if he/she wants to turn on the heat. Then it connects to the actuator and turns it on.
 
 ![](http://users.metropolia.fi/~aidarm/software_engineering/5.png) 
