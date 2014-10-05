@@ -53,9 +53,11 @@
 
 #####Usability.
 
-We tried to make our application as simple as possible. Using Metropolia database really helps users to start interacting with the application easily, because no registration is actually needed. The only thing needed is a smartphone to launch the application, because it is mobile. Metropolia database already stores the name and permissions of the user, defining who is a student and who is a staff memeber, which is very good. Moreover, our aim is to make graphical user interface as clear and intuitive as possible. It is important that all the actors do their tasks without any kind of hesitations or misunderstandings.
+We tried to make our application as simple as possible. Using Metropolia database really helps users to start interacting with the application easily, because no registration is actually needed. The only thing needed is a smartphone to launch the application, because it is mobile. Metropolia database already stores the name and permissions of the user, defining who is a student and who is a staff memeber, which is very good. Moreover, our aim is to make graphical user interface as clear and intuitive as possible, thinking about layouts, color etc. It is important that all the actors do their tasks without any kind of hesitations or misunderstandings. We also need to provide an application with a fast response time for application loading, screen refresh etc. All functions and calculations must be optimized in order to decrease proccessing times.
+
+We intend our application to work unstoppably and only inside the Leppävaara Metropolia campus. 
 
 #####Reliability.
 
-One more good moment to mention Metropolia database — it is already secured. 
+One more good moment to mention Metropolia database — it is already secured. And we are sure, that if it was down, it would be up very soon. In our case we should more be concerned about, for example, beacons reliability. It is comparatively a new piece of technology and we must consider all its depths — maintainability, conformance to architecture standards, compatibility with different platforms etc.
 
