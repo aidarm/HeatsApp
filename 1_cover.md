@@ -1,6 +1,6 @@
-#HeatsAPP!
+#HeatsApp!
 
-__Product name__: HeatsAPP!
+__Product name__: HeatsApp!
 
 __Team name__: Jaa Live
 
