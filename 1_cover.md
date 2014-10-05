@@ -1,4 +1,4 @@
-#HeatAPP
+#HeatsAPP!
 
 __Product name__: HeatsAPP!
 
