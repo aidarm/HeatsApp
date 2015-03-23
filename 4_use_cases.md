@@ -16,7 +16,7 @@
 | Staff member     | <ol><li>Log in</li><li>Log out</li><li>Edit his/her own office default heat settings</li><li>Send a value, when prompted by the system</li></ol>      |
 | Student | <ol><li>Log in</li><li>Log out</li><li>Search for available classrooms</li><li>Get a notification</li></ol>    |
 
-![](http://users.metropolia.fi/~aidarm/software_engineering/use_cases.png)
+<img src="img/use_cases.png" />
 
 ---
 

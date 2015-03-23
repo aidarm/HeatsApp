@@ -14,7 +14,7 @@ Beacon is a small Bluetooth transmitter, which provides location-based informati
 
 Actuator is the connecting device between the software and the physical world. For example, the heat actuator will be on/off and set temperature switch.
 
-![](http://users.metropolia.fi/~aidarm/software_engineering/actuator.png)
+<img src="img/actuator.png" />
 
 
 ###3.2. Architecture overview
